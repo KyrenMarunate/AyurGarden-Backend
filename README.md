@@ -4,5 +4,5 @@ well I installed package.json using npm init
 then I have to install the all dependecies:
 npm install express dotenv mongoose bcrypt jsonwebtoken
 then I have to install dev dependencies:
-npm i --save -nodemon
+npm install nodemon --save -dev
 then I git cloned ProVask-frontend
